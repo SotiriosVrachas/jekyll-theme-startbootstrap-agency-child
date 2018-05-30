@@ -1,0 +1,15 @@
+title: Agency - Start Bootstrap Theme
+# author: ''
+# description: 'en'
+# lang: 'en'
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# assets_path: 'assets/'
+
+collections:
+  projects:
+
+# Build settings
+remote_theme: SotiriosVrachas/jekyll-theme-startbootstrap-agency@0.2.4
+plugins:
+  - jekyll-remote-theme
