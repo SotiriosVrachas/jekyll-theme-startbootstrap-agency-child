@@ -14,7 +14,7 @@ sections:
   match: "**/*"
 - type: document
   path: _data/default.yml
-  label: defaults
+  label: Defaults
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
